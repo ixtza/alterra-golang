@@ -172,7 +172,7 @@ Maka akan muncul conflict, untuk melakukan penyelesaian, buka `VSCODE` (karna pe
 
 -- gambar conflict
 
-Pilih opsi yang ada di atas sesuai kebutuhan, untuk saat ini kita pilih `accept both changes`
+Pilih opsi yang ada di atas sesuai kebutuhan, untuk saat ini kita pilih `accept current changes`
 
 # 4. Implementasi push, pull, stash, dan merge ✅
 Terlaksanakan sembari mengerjakan [nomer 2](#2-membuat-brancing-main-development-featurea-dan-featureb-%E2%9C%85) dan [nomer3](#3-penanganan-konflik-ketika-featureb-di-merge-setelah-featurea-merge-ke-development).
