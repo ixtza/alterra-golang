@@ -170,7 +170,7 @@ git merge featureB --no-ff
 ```
 Maka akan muncul conflict, untuk melakukan penyelesaian, buka `VSCODE` (karna penulis menggunakan IDE ini) lalu pergi ke line code dimana terjadi conflict. Akan terlihat tampilan berikut:
 
--- gambar conflict
+![d2-bukti2-praktikum](https://user-images.githubusercontent.com/74223938/154068335-729918f7-6391-4d6f-b140-bfefc00070af.png)
 
 Pilih opsi yang ada di atas sesuai kebutuhan, untuk saat ini kita pilih `accept current changes`
 
@@ -189,4 +189,4 @@ git log --oneline --graph --all
 ```
 terbukti bahwa `snapshot` yang dihasilkan adalah baru alias non liner merge.
 
--- gambar log
+![d2-bukti3-praktikum](https://user-images.githubusercontent.com/74223938/154068281-b0b4b0e4-fc1f-4e00-adfa-3609c263dcd6.png)
