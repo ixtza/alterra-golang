@@ -5,6 +5,9 @@
 - [Praktikum](#praktikum)
 
 # Resume
+- Versioning untuk mengatur versi dari kode suatu program yang dibantu oleh VCS, SCM, RCS yang sudah mengalami perjalanan sejarah sejak 1972
+- Tools _VCS_ yang sering digunakan adalah `git` yang memiliki kemampuan 3 alat bantu versioning. Dibantu `remote repository` sebagai penunjang sistem _versioning_ terdistribusi salah satunya `github`
+- Alur dalam berkolaborasi kode harus dilakukan diluar kode utama misal cabang `perkembangan`, didalamnya lagi dibuat cabang yang masing masing memiliki tugas untuk mengembangkan fitur-fitur berbeda.
 
 # Praktikum
 
