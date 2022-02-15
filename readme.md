@@ -3,4 +3,4 @@ Merupakan salah satu program `studi independen` yang dibuka oleh `Alterra.id` se
 
 Program `Golang Programme` sendiri bertujuan untuk menyiapkan peserta untuk menguasai bahasa pemrograman **_Go_**.
 
-Program repo ini bertujuan sebagai tempat pengumpulan tugas - tugas yang akan diberikan selama masa `studi independen` jika dirasa perlu.
+Repo ini bertujuan sebagai tempat pengumpulan tugas - tugas yang akan diberikan selama masa `studi independen` jika dirasa perlu.
