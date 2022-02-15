@@ -125,7 +125,7 @@ Kemudian saatnya kita membuat branch `featureA` dan `featureB`. **Pembuatan bran
 git branch featureA
 git branch featuerB
 ```
-## 3. Penanganan konflik ketika `featureB` di merge setelah `featureA` merge ke `development`
+## 3. Penanganan konflik ketika `featureB` di merge setelah `featureA` merge ke `development`✅
 
 Kita pergi ke branch `featureA` dan edit `index.html` menjadi seperti berikut
 
